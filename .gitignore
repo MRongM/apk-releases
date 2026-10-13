@@ -5,3 +5,4 @@
 *.p12
 *.password
 .DS_Store
+artifacts/
